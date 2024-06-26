@@ -1,0 +1,20 @@
+Nessa primeira aula aprendi a como utilizar o GitHub e o GIT, como são utilizados e como criar repositórios de projetos
+a uma plataforma online. 
+
+Aprendemos a usar os seguintes comandos:
+
+git init - Ele inicializa o repositório com o GIT. É como se estivesse dizendo que esse diretório terá um controle de versão.
+
+git clone <URL> - Clona o repositório remoto.
+
+git remote add origin <URL> - Conecta o repositório local com o repositório remoto.
+
+git status - Ele mostra na tela as informações de arquivos ou diretórios modificados e também a branch conectada.
+
+git add <Arquivo ou diretório> - Adiciona ou prepara o arquivo para dar o commit.
+
+git commit -m <Nome do arquivo ou diretório> - Aplica o que foi preparado ao executar o git add (Stage).
+
+git log - Comando para mostrar o histórico do GIT.
+
+git push -u origin  <branch> - Esse comando envia as alterações para o repositório remoto.
