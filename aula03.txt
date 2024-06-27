@@ -4,6 +4,7 @@ feat - para novas funcionalidades ou qualquer coisa nova
 fix - para correções
 Style - para mudanças no estilo do código
 refactor - para melhorias, alterações e exclusões
+pull - puxar uma branch
 
 
 Nomear uma branch com no máximo 5 palavras de forma genérica.
