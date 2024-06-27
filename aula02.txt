@@ -1,4 +1,4 @@
-Aprendemos branchs, checkouts e merges, o que são branchs e merges, como criar uma (git checkout, git add e a mergir um arquivo de uma branch até a classe main/master) :
+Aprendemos branchs, checkouts e merges, o que são branchs e merges, como criar uma (git checkout, git status, git add e a mergir um arquivo de uma branch até a classe main/master) :
 
 Branches são como diferentes linhas de trabalho separadas dentro de um projeto de software. 
 Cada branch permite que você trabalhe em uma parte específica do projeto sem interferir no trabalho dos outros.
