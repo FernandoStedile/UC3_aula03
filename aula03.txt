@@ -1,0 +1,9 @@
+Nessa aula do dia 26 aprendemos as seguintes coisas em que colocamos após o comando de commit:
+
+feat - para novas funcionalidades ou qualquer coisa nova
+fix - para correções
+Style - para mudanças no estilo do código
+refactor - para melhorias, alterações e exclusões
+
+
+Nomear uma branch com no máximo 5 palavras de forma genérica.
