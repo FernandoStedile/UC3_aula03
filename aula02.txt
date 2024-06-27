@@ -1,0 +1,7 @@
+Aprendemos branchs e merges, o que são branchs e merges, como criar uma (git checkout, git add e a mergir um arquivo de uma branch até a classe main/master :
+
+Branches são como diferentes linhas de trabalho separadas dentro de um projeto de software. 
+Cada branch permite que você trabalhe em uma parte específica do projeto sem interferir no trabalho dos outros.
+
+Merges são operações que combinam o trabalho feito em diferentes branches de volta à branch principal do projeto.
+Isso garante que todas as alterações feitas sejam integradas de forma organizada e sem conflitos, mantendo o projeto coeso e funcional.
